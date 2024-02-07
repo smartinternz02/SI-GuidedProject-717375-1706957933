@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>Validate OrangeHRM to search employee.</description>
-   <name>TC005_Employee Search</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>e9f232db-a879-4a88-81b2-7e87304402a6</testCaseGuid>
-</TestCaseEntity>

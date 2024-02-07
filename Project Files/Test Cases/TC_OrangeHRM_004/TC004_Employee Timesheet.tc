@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate OrangeHRM to review employee timesheet.</description>
+   <name>TC004_Employee Timesheet</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>67e2424f-0ce8-47a2-a370-a80d61d54d70</testCaseGuid>
+</TestCaseEntity>
