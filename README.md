@@ -3,7 +3,7 @@
 
 # OrangeHRM
 OrangeHRM is a leading provider of human resource management software, offering innovative solutions to streamline HR processes. With user-friendly interfaces and robust features, OrangeHRM empowers organizations to efficiently manage their workforce, from recruitment to retirement.
-<br><br>
+<br>
 # Project flow:
 
 * User interact with the UI to enter into system
