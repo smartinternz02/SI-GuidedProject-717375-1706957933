@@ -19,7 +19,6 @@ To accomplish this, we have to complete all the activities listed below:
    i. Specify the business problem
    <br><br> <!-- This creates two line breaks -->
    ii. Business impact 
-   <br><br> <!-- This creates two line breaks -->
 
 2. Test case Preparation
    <br><br> <!-- This creates two line breaks -->
@@ -30,7 +29,6 @@ To accomplish this, we have to complete all the activities listed below:
    iii. Preparation of Test cases
    <br><br> <!-- This creates two line breaks -->
    iv. Test data preparation (in the form of Validation Table) as per baseline document
-   <br><br> <!-- This creates two line breaks -->
 
 3. Script/Test case Execution under test suite and test suite collection level 
    <br> <!-- This creates a line break -->
@@ -51,7 +49,6 @@ To accomplish this, we have to complete all the activities listed below:
 
 8. Generating and Analyzing report and Sending report through email.
    <br> <!-- This creates a line break -->
-
 
 # Prior Knowledge:
 
