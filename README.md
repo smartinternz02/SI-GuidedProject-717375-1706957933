@@ -44,10 +44,7 @@ To accomplish this, we have to complete all the activities listed below:
    - Integrating Katalon to Git and Jenkins
    <br> <!-- This creates a line break -->
 
-7. Cross-browser testing using TestCloud
-   <br> <!-- This creates a line break -->
-
-8. Generating and Analyzing report and Sending report through email.
+8. Generating and Analyzing report
    <br> <!-- This creates a line break -->
 
 # Prior Knowledge:
