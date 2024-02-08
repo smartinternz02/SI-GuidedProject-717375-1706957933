@@ -15,22 +15,22 @@ OrangeHRM is a leading provider of human resource management software, offering 
 To accomplish this, we have to complete all the activities listed below:
 
 1. Define problem/Problem understanding
-   <br> <!-- This creates a line break -->
+   <br><br> <!-- This creates two line breaks -->
    i. Specify the business problem
-   <br> <!-- This creates a line break -->
+   <br><br> <!-- This creates two line breaks -->
    ii. Business impact 
-   <br> <!-- This creates a line break -->
+   <br><br> <!-- This creates two line breaks -->
 
 2. Test case Preparation
-   <br> <!-- This creates a line break -->
+   <br><br> <!-- This creates two line breaks -->
    i. Analyze requirements
-   <br> <!-- This creates a line break -->
+   <br><br> <!-- This creates two line breaks -->
    ii. Create the Scenarios and Collect the input data
-   <br> <!-- This creates a line break -->
+   <br><br> <!-- This creates two line breaks -->
    iii. Preparation of Test cases
-   <br> <!-- This creates a line break -->
+   <br><br> <!-- This creates two line breaks -->
    iv. Test data preparation (in the form of Validation Table) as per baseline document
-   <br> <!-- This creates a line break -->
+   <br><br> <!-- This creates two line breaks -->
 
 3. Script/Test case Execution under test suite and test suite collection level 
    <br> <!-- This creates a line break -->
