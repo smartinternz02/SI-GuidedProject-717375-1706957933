@@ -15,34 +15,43 @@ OrangeHRM is a leading provider of human resource management software, offering 
 To accomplish this, we have to complete all the activities listed below:
 
 1. Define problem/Problem understanding
-
+   <br> <!-- This creates a line break -->
    i. Specify the business problem
-
+   <br> <!-- This creates a line break -->
    ii. Business impact 
+   <br> <!-- This creates a line break -->
 
 2. Test case Preparation
-
+   <br> <!-- This creates a line break -->
    i. Analyze requirements
-
+   <br> <!-- This creates a line break -->
    ii. Create the Scenarios and Collect the input data
-
+   <br> <!-- This creates a line break -->
    iii. Preparation of Test cases
-
+   <br> <!-- This creates a line break -->
    iv. Test data preparation (in the form of Validation Table) as per baseline document
+   <br> <!-- This creates a line break -->
 
 3. Script/Test case Execution under test suite and test suite collection level 
+   <br> <!-- This creates a line break -->
 
 4. Handling and Validating buttons
+   <br> <!-- This creates a line break -->
 
 5. Test listeners
+   <br> <!-- This creates a line break -->
 
 6. Build delivery
-
+   <br> <!-- This creates a line break -->
    - Integrating Katalon to Git and Jenkins
+   <br> <!-- This creates a line break -->
 
 7. Cross-browser testing using TestCloud
+   <br> <!-- This creates a line break -->
 
-8. Generating and Analyzing report and Sending report through email
+8. Generating and Analyzing report and Sending report through email.
+   <br> <!-- This creates a line break -->
+
 
 # Prior Knowledge:
 
