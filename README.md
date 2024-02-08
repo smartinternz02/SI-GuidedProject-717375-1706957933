@@ -1,4 +1,4 @@
-# Software Testing Automation With Katalon
+# Software Testing Automation Using Katalon
 
 
 # OrangeHRM
@@ -16,19 +16,19 @@ To accomplish this, we have to complete all the activities listed below:
 
 1. Define problem/ Problem understanding
 
-i. Specify the business problem
+ i. Specify the business problem
 
-ii. Business impact 
+ ii. Business impact 
 
 2. Test case Preparation
 
-i. Analyze requirements
+ i. Analyze requirements
 
-ii. Create the Scenario's and Collect the input data
+ ii. Create the Scenario's and Collect the input data
 
-iii. Preparation of Test cases
+ iii. Preparation of Test cases
 
-iv. Test data preparation (in the form of Validation Table) as per baseline document
+ iv. Test data preparation (in the form of Validation Table) as per baseline document
 
 3. Script /Test case Execution under test suite and test suite collection level 
 
