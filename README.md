@@ -1,4 +1,4 @@
-# Software Testing Automation Using Katalon
+# Software Automation Testing Using Katalon
 
 
 # OrangeHRM
